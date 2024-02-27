@@ -75,10 +75,10 @@ int main(){
 		insertATend(tail,x);
 
 	}
-	insertAtHead(head, 4);
-	InsertAtMid(head,9,1);
+	// insertAtHead(head, 4);
+	// InsertAtMid(head,9,1);
 	display(head);
-	displayT(tail);
+	// displayT(tail);
 
 
 }
